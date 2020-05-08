@@ -1,6 +1,6 @@
 # Compliance Validation for Amazon Lightsail<a name="amazon-lightsail-compliance"></a>
 
- *Last updated: February 18, 2020* 
+ *Last updated: February 18, 2020*
 
 Third\-party auditors assess the security and compliance of Amazon Lightsail as part of multiple AWS compliance programs\. These include SOC, PCI, FedRAMP, HIPAA, and others\.
 
